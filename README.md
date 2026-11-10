@@ -50,4 +50,18 @@
 
 </div>
 
+---
+
+### 🐍 Cobrinha de Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leenZzZzZ/leenZzZzZ/output/github-snake-blue.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leenZzZzZ/leenZzZzZ/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/leenZzZzZ/leenZzZzZ/output/github-snake-blue.svg" />
+</picture>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=100&section=footer" width="100%" />
