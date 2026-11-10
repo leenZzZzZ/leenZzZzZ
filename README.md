@@ -30,9 +30,9 @@
 
 <div align="center">
 
-<a href="https://github.com/leenZzZzZ/Ln-HUB-AOT-REVOLUTION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leenZzZzZ&repo=Ln-HUB-AOT-REVOLUTION&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/leenZzZzZ/Ln-HUB-BRIDGER-WESTERN"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leenZzZzZ&repo=Ln-HUB-BRIDGER-WESTERN&theme=github_dark&hide_border=true" /></a>
-<a href="https://github.com/leenZzZzZ/Eat-The-World-Ln-HUB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=leenZzZzZ&repo=Eat-The-World-Ln-HUB&theme=github_dark&hide_border=true" /></a>
+<a href="https://github.com/leenZzZzZ/Ln-HUB-AOT-REVOLUTION"><img src="https://img.shields.io/badge/Ln_HUB-AOT_Revolution-58a6ff?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/leenZzZzZ/Ln-HUB-BRIDGER-WESTERN"><img src="https://img.shields.io/badge/Ln_HUB-Bridger_WESTERN-58a6ff?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://github.com/leenZzZzZ/Eat-The-World-Ln-HUB"><img src="https://img.shields.io/badge/Ln_HUB-Eat_the_World-58a6ff?style=for-the-badge&logo=lua&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
@@ -44,9 +44,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leenZzZzZ&theme=dark&background=0d1117&border=161b22&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff" alt="Sequência no GitHub" />
 
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leenZzZzZ&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de atividade" />
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=leenZzZzZ&color=58a6ff&style=for-the-badge&label=VISITAS" alt="Visitas" />
 
