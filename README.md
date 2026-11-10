@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=160&section=header&text=leenZzZzZ&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Scripter+Roblox+%7C+Luau;Criador+do+Ln+HUB;Sempre+commitando+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Scripter+Roblox+%7C+Luau;Criador+do+Ln+HUB" alt="Typing SVG" />
 
 </div>
 
@@ -47,20 +47,6 @@
 <br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=leenZzZzZ&color=58a6ff&style=for-the-badge&label=VISITAS" alt="Visitas" />
-
-</div>
-
----
-
-### 🐍 Cobrinha de Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leenZzZzZ/leenZzZzZ/output/github-snake-blue.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leenZzZzZ/leenZzZzZ/output/github-snake.svg" />
-  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/leenZzZzZ/leenZzZzZ/output/github-snake-blue.svg" />
-</picture>
 
 </div>
 
